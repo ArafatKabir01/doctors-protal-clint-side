@@ -1,0 +1,17 @@
+.link a{
+    text-decoration: none;
+    color: #000000;
+    margin-left: 17px;
+    height: 44px;
+    padding-top: 11px;
+    padding-left: 13px;
+    padding-right: 13px;
+    border-radius: 8px;
+
+}
+.link a:hover{
+    height: 44px;
+    background-color: #3A4256;
+    color: #D4D9E3;
+    transition: .5s;
+}

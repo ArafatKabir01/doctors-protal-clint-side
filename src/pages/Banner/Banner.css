@@ -1,0 +1,58 @@
+
+.banner{
+    height: 838px;
+    background-image: url(../../img&icon/images/bg.png);
+    background-repeat: no-repeat;
+}
+
+.info-img{
+    padding-top: 210px;
+}
+.banner-img img{
+    width: 594px;
+    height: 355px;
+}
+.info-title{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 65px;
+    color: #3A4256;
+}
+.banner-btn{
+    width: 140px;
+    height: 48px;
+    padding: 11px 14px 14px 14px;
+    background: linear-gradient(90deg, #19D3AE -22.5%, #0FCFEC 120.83%);
+    border-radius: 8px;
+    border: none;
+    color: white;
+    margin-top: 30px;
+}
+.banner-btn:hover{
+    background:linear-gradient(90deg, #235fbe -22.5%, #9876f6 120.83%);
+    transition:1s;
+}
+.banner-cart1{
+    width: 450px;
+    height: 190px;
+    background: linear-gradient(90deg, #19D3AE -38.67%, #0FCFEC 129.78%);
+    border-radius: 14px;
+    margin-left: 20px;
+    color: white;
+}
+.banner-cart2{
+    width: 450px;
+    height: 190px;
+    background-color: #3A4256;;
+    border-radius: 14px;
+    color: white;
+    margin-left: 20px;
+}
+.banner-cart3{
+    width: 450px;
+    height: 190px;
+    background: linear-gradient(90deg, #19D3AE -38.67%, #0FCFEC 129.78%);
+    border-radius: 14px;
+    margin-left: 20px;
+    color: white;
+}
