@@ -29,8 +29,8 @@
     margin-top: 30px;
 }
 .banner-btn:hover{
+    transition: .5s;
     background:linear-gradient(90deg, #235fbe -22.5%, #9876f6 120.83%);
-    transition:1s;
 }
 .banner-cart1{
     width: 450px;
@@ -39,6 +39,10 @@
     border-radius: 14px;
     margin-left: 20px;
     color: white;
+}
+.banner-cart1 img{
+    width: 80px;
+    height: 80px;
 }
 .banner-cart2{
     width: 450px;
